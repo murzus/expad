@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="murz-VAIO" name="expad.SummonsTests" tests="1" time="0.26" timestamp="2013-03-10T16:38:43">
+  <properties />
+  <testcase classname="expad.SummonsTests" name="testSomething" time="0.13">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at expad.SummonsTests.testSomething(SummonsTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
